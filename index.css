@@ -96,3 +96,19 @@ h1,h2{
   text-decoration:none;
 
 }
+.cimg{
+  height:350px;
+  width:300px;
+}
+.headd{
+  color: #3498db;
+  font-size: 350%;
+  margin-top: 1em;
+}
+
+.Footer{
+  color: black;
+  font-weight:500;
+  font-size:16px;
+  letter-spacing:1px;
+}
